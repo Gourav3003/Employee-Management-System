@@ -48,4 +48,3 @@ https://github.com/Saurabh6912/Employee-Management-System/assets/135308872/34d1b
 We welcome contributions to enhance the functionality and user experience of the Employee Management System. Feel free to submit pull requests with new features,
 bug fixes, or improvements. For major changes.
 
-***Contributer** [Saurabh6912](https://github.com/Saurabh6912)*
